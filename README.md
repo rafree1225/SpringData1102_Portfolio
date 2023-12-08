@@ -1,5 +1,5 @@
 # SpringData1102_Portfolio
-20201102 東認企業產訓-我的投資組合
+客製化股票投資組合
 
 1/15(五) 問題解決:
 Asset.java 與 Profit.java
